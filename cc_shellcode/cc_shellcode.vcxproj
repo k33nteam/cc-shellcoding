@@ -212,9 +212,6 @@
     <ClCompile Include="src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AttackOnTheCore\AttackOnTheCore.vcxproj">
-      <Project>{8f56699b-2357-48bc-a739-d831f3421c97}</Project>
-    </ProjectReference>
     <ProjectReference Include="..\CVE\CVE.vcxproj">
       <Project>{444c9878-7d1a-4028-8416-3c7d8672fdeb}</Project>
     </ProjectReference>
