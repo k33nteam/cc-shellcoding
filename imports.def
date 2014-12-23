@@ -1,6 +1,6 @@
 EXPORTS
 _ZwQuerySystemInformation@16
-_DbgPrint
+DbgPrint
 _RtlInitUnicodeString@8
 _IoQueueWorkItem@16
 _IoGetDeviceObjectPointer@16
