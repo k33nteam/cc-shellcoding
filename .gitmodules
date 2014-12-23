@@ -7,9 +7,9 @@
 [submodule "LOADER"]
 	path = LOADER
 	url = https://github.com/k33nteam/LOADER.git
-[submodule "AttackOnTheCore"]
-	path = AttackOnTheCore
-	url = https://github.com/k33nteam/AttackOnTheCore.git
 [submodule "CVE"]
 	path = CVE
 	url = https://github.com/k33nteam/CVE.git
+[submodule "Core"]
+	path = Core
+	url = https://github.com/k33nteam/Core.git
