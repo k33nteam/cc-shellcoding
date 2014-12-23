@@ -1,0 +1,15 @@
+[submodule "Common"]
+	path = Common
+	url = https://github.com/k33nteam/Common.git
+[submodule "LIBC"]
+	path = LIBC
+	url = https://github.com/k33nteam/LIBC.git
+[submodule "LOADER"]
+	path = LOADER
+	url = https://github.com/k33nteam/LOADER.git
+[submodule "AttackOnTheCore"]
+	path = AttackOnTheCore
+	url = https://github.com/k33nteam/AttackOnTheCore.git
+[submodule "CVE"]
+	path = CVE
+	url = https://github.com/k33nteam/CVE.git
