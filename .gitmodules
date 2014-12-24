@@ -13,3 +13,6 @@
 [submodule "Core"]
 	path = Core
 	url = https://github.com/k33nteam/Core.git
+[submodule "boost"]
+	path = boost
+	url = https://github.com/boostorg/boost
